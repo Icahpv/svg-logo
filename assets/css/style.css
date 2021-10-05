@@ -1,0 +1,53 @@
+svg {
+  height: 50rem;
+  width: 50rem;
+}
+
+.topbox {
+
+}
+
+.sidebox {
+
+}
+
+.doorbox {
+
+}
+
+.boxshadow {
+
+}
+
+.whitedoor{
+
+}
+
+.purpledoor {
+
+}
+
+.gameshop-text {
+  animation-name: color-change;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.person {
+
+}
+
+.person-shadow {
+
+}
+
+@keyframes color-change {
+  from {
+    fill: blue;
+  }
+  to {
+    fill: red;
+  }
+}
+
+
